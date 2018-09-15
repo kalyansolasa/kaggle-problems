@@ -1,0 +1,4 @@
+This question is from kaggle
+
+refer for problem statement
+https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
